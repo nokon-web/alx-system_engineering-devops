@@ -1,2 +1,2 @@
 #!/bin/bash
-chown utx hello
+chmod utx hello
